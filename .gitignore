@@ -25,7 +25,11 @@ fp-info-cache
 *.xml
 *.csv
 
+# Materials
+material/
 
 # LTSpice
 *.log
 *.raw
+
+
